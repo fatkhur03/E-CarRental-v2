@@ -1,7 +1,8 @@
 # E-CarRental-v2 Aplication
 Project2UAS - STT Terpadu Nurul Fikri - PemWeb01
 
-Demo : <a target="_blank" href="https://kreasi.nurulfikri.ac.id/mfat22090si/E-CarRental-v2/">Klik disini</a>
+Demov1 : <a target="_blank" href="https://kreasi.nurulfikri.ac.id/mfat22090si/E-CarRental-v2/">Klik disini</a><br>
+Demov2 : <a target="_blank" href="https://kreasi.nurulfikri.ac.id/mfat22090si/E-CarRental-v2/">Klik disini</a>
 
 ### Anggota Kelompok
 | **Nama** | **NIM** |
